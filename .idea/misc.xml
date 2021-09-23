@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android projects/cursos/Udemy-Android 11 Kotlin/StoresKotlin/app/src/main/res/drawable/ic_favorite.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/Android projects/cursos/Udemy-Android 11 Kotlin/StoresKotlin/app/src/main/res/drawable/states_cb_favorite.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/Android projects/cursos/Udemy-Android 11 Kotlin/StoresKotlin/app/src/main/res/layout/activity_main.xml" value="0.36096014492753625" />
+        <entry key="..\:/Android/Android projects/cursos/Udemy-Android 11 Kotlin/StoresKotlin/app/src/main/res/layout/fragment_edit_store.xml" value="0.33" />
+        <entry key="..\:/Android/Android projects/cursos/Udemy-Android 11 Kotlin/StoresKotlin/app/src/main/res/layout/item_store.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android/Android projects/cursos/Udemy-Android 11 Kotlin/StoresKotlin/app/src/main/res/menu/menu_save.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android/Android projects/practice/StoresKotlin/app/src/main/res/drawable/ic_add_business.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android/Android projects/practice/StoresKotlin/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android/Android projects/practice/StoresKotlin/app/src/main/res/layout/item_store.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Stores</string>
+    <string name="description_img_photo">Imagen de la tienda</string>
+    <string name="description_store_add">Crear tienda</string>
+    <string name="store_key_id" translatable="false">key_id</string>
+
+    <string name="hint_store_name">Store name</string>
+    <string name="common_helper_required">Required</string>
+    <string name="hint_store_phone">Phone</string>
+    <string name="hint_store_website">Website Url</string>
+    <string name="hint_store_photo_url">Photo Url</string>
+    <string name="edit_store_title_add">Crear tienda</string>
+    <string name="menu_save">Save</string>
+    <string name="edit_store_message_added_success">Tienda agregada exitosamente</string>
+    <string name="edit_store_message_update_success">Tienda actualizada</string>
+    <string name="edit_store_message_validate">Revisar los campos requeridos</string>
+    <string name="edit_store_title_edit">Edit Store</string>
+    <string name="dialog_delete_title">Delete store?</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="dialog_delete_cancel">Cancel</string>
+    <string name="dialog_options_title">What do you like to do?</string>
+    <string name="main_error_website">This store doesn\'t have a website</string>
+    <string name="main_error_cant_resolve">No se encontró una app compatible</string>
+    <string name="item_options_item_start_call">Call</string>
+    <string name="item_options_item_goto_website">Go to website</string>
+    <string name="error_get_store">Error al consultar los datos</string>
+    <string name="error_add_store">Error al insertar los datos</string>
+    <string name="error_update_store">Error al actualizar los datos</string>
+    <string name="error_delete_store">Error al eliminar los datos</string>
+    <string name="error_unknown_store">Error desconocido</string>
+</resources>
